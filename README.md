@@ -1,1 +1,1 @@
-# Lexical_Analyzer
+# Lexical_Analyzer_mini_project
